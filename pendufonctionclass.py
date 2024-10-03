@@ -1,6 +1,6 @@
 import random as r
 
-class Penduclass:
+class PenduClass:
     liste_mots = ("comme", "entre", "cette", "etait", "apres", "paris", "aussi", "alors", "ainsi", 
                   "ville", "notes", "trois", "monde", "annee", "titre", "avant", "deces", "serie", 
                   "premier", "commune", "famille", "general", "devient", "nouveau", "pendant", 
